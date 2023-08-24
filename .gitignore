@@ -12,6 +12,7 @@ node_modules
 /coverage
 
 # production
+/server/.env
 /build
 
 # misc
